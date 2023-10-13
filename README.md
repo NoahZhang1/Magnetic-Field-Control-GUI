@@ -1,5 +1,7 @@
 # Magnetic Field Controller GUI
 
+![Teaser Picture](teaser.png)
+
 A simple graphical user interface (GUI) for controlling and communicating with devices over serial ports.
 
 ## Features
